@@ -31,3 +31,4 @@ Customized Debian live build configuration for my PCs
 * Spectacle
 * Telegram
 * VLC
+* XnView MP

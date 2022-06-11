@@ -1,0 +1,4 @@
+ #!/bin/sh
+ # Install Flatpak applications
+
+ flatpak install xnviewmp -y
