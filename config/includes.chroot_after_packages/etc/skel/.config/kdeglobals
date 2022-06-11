@@ -1,2 +1,6 @@
  [KDE]
  SingleClick=false
+
+ [KScreen]
+ ScaleFactor=1.25
+ ScreenScaleFactors=Virtual1=1.25;Virtual2=1.25;Virtual3=1.25;Virtual4=1.25;Virtual5=1.25;Virtual6=1.25;Virtual7=1.25;Virtual8=1.25;

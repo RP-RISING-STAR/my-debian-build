@@ -5,8 +5,10 @@ Customized Debian live build configuration for my PCs
 **Specifics:**
 * Network installation only
 * Amd64 architecture only
+* FlatHub integrated
 
 **Apps included:**
+* 7-Zip
 * Ark
 * Clementine
 * Dolphin with plugins
@@ -27,4 +29,5 @@ Customized Debian live build configuration for my PCs
 * Plymouth
 * SDDM
 * Spectacle
+* Telegram
 * VLC
