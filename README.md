@@ -1,6 +1,6 @@
 # Custom Debian Distribution
 
-### Customized Debian live build configuration for my PCs
+Customized Debian live build configuration for my PCs
 
 **Specifics:**
 * Network installation only
@@ -11,7 +11,9 @@
 * Clementine
 * Dolphin with plugins
 * FileZilla
+* Firefox
 * Flatpak
+* FreeOffice
 * Gimp
 * htop
 * Kate

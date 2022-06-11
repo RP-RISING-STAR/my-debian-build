@@ -2,9 +2,11 @@
 # live-build configuration script
 # see 'man lb config'
 
-lb config \
+lb config noauto \
 --architecture amd64 \
 --archive-areas "main contrib non-free" \
+--clean \
 --distribution bookworm \
 --debian-installer netinst \
 --debootstrap-options "--variant=minbase"
+"${@}"

@@ -1,0 +1,4 @@
+ #!/bin/sh
+ # removing unnecessary packages
+
+ apt purge -y termit kdeconnect
