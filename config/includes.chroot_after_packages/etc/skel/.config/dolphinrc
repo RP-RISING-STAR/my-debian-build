@@ -1,0 +1,6 @@
+[DetailsMode]
+ExpandableFolders=false
+PreviewSize=22
+
+[VersionControl]
+enabledPlugins=Git

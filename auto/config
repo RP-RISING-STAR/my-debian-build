@@ -1,0 +1,10 @@
+#!/bin/sh
+# live-build configuration script
+# see 'man lb config'
+
+lb config \
+--architecture amd64 \
+--archive-areas "main contrib non-free" \
+--distribution bookworm \
+--debian-installer netinst \
+--debootstrap-options "--variant=minbase"

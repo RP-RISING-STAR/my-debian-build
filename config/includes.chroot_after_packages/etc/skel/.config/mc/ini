@@ -1,0 +1,5 @@
+[Midnight-Commander]
+confirm_exit=true
+skin=modarin256
+use_internal_view=true
+use_internal_edit=true
