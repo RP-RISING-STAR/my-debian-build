@@ -3,6 +3,7 @@
 # see 'man lb config'
 
 lb config noauto \
+--apt-source-archives false \
 --architecture amd64 \
 --archive-areas "main contrib non-free" \
 --clean \
