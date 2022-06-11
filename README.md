@@ -26,4 +26,5 @@ Customized Debian live build configuration for my PCs
 * Plasma-workspace
 * Plymouth
 * SDDM
+* Spectacle
 * VLC

@@ -9,6 +9,7 @@ gimp
 htop
 kate
 kcalc
+kde-spectacle
 kfind
 kompare
 konsole
@@ -18,4 +19,5 @@ plasma-workspace
 plymouth
 sddm
 softmaker-freeoffice-2021
+ttf-mscorefonts-installer
 vlc

@@ -1,4 +1,6 @@
- #!/bin/sh
- # removing unnecessary packages
+#!/bin/sh
+# removing unnecessary packages
 
- apt purge -y termit kdeconnect
+apt purge -y termit kdeconnect
+
+apt autoremove -y --purge
