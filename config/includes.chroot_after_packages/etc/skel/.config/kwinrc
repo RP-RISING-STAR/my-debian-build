@@ -1,4 +1,3 @@
 [org.kde.kdecoration2]
-BorderSize=Tiny
+BorderSize=NoSides
 BorderSizeAuto=false
-
