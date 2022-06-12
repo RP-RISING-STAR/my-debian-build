@@ -6,8 +6,11 @@ lb config noauto \
 --apt-source-archives false \
 --architecture amd64 \
 --archive-areas "main contrib non-free" \
+--backports true \
 --clean \
 --distribution bookworm \
 --debian-installer netinst \
---debootstrap-options "--variant=minbase"
+--debootstrap-options "--variant=minbase" \
+--security true \
+--updates true
 "${@}"
