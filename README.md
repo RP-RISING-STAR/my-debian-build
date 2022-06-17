@@ -1,6 +1,6 @@
 # Custom Debian Distribution
 
-Customized Debian live build configuration for my PCs
+Customized Debian live build configuration for my needs
 
 **Specifics:**
 * Network installation only
@@ -21,13 +21,17 @@ Customized Debian live build configuration for my PCs
 * Kate
 * KCalc
 * KFind
+* KolourPaint
 * Kompare
 * Konsole
+* Microsoft Teams
 * Midnight Commander
 * Okular
 * Plasma-workspace
 * Plymouth
 * SDDM
+* Skype
 * Spectacle
 * Telegram
 * VLC
+* Yakuake

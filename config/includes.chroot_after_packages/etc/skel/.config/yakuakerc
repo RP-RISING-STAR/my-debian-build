@@ -1,0 +1,11 @@
+[Appearance]
+HideSkinBorders=true
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=60
+ShowSystrayIcon=false
+ShowTabBar=false
+Width=80
