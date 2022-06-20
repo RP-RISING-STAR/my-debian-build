@@ -3,6 +3,7 @@
 # see 'man lb config'
 
 lb config noauto \
+--apt-indices false \
 --apt-source-archives false \
 --architecture amd64 \
 --archive-areas "main contrib non-free" \
@@ -10,7 +11,7 @@ lb config noauto \
 --clean \
 --distribution bookworm \
 --debian-installer netinst \
---debootstrap-options "--variant=minbase" \
+--debootstrap-options "--include=ca-certificates --variant=minbase" \
 --security true \
 --updates true
 "${@}"

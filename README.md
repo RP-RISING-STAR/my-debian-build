@@ -8,10 +8,9 @@ Customized Debian live build configuration for my needs
 * FlatHub integrated
 
 **Apps included:**
-* 7-Zip
-* Ark
+* Ark (+ 7-Zip/RAR)
 * Clementine
-* Dolphin with plugins
+* Dolphin (+ plugins)
 * FileZilla
 * Firefox
 * Flatpak
