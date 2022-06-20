@@ -10,6 +10,7 @@ Customized Debian live build configuration for my needs
 **Apps included:**
 * Ark (+ 7-Zip/RAR)
 * Clementine
+* Curl
 * Dolphin (+ plugins)
 * FileZilla
 * Firefox

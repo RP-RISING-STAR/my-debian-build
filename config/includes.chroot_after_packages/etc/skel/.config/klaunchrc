@@ -1,4 +1,5 @@
 [BusyCursorSettings]
-Blinking=true
 Bouncing=false
 
+[FeedbackStyle]
+BusyCursor=false
