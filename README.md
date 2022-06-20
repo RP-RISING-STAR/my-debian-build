@@ -17,6 +17,7 @@ Customized Debian live build configuration for my needs
 * Flatpak
 * FreeOffice
 * Gimp
+* GSmartControl
 * htop
 * Kate
 * KCalc
