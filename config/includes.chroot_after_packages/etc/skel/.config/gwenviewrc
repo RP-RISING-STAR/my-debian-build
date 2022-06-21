@@ -1,0 +1,14 @@
+[General]
+JPEGQuality=99
+SideBarPage=folders
+ThumbnailActions=ThumbnailActions::None
+
+[ImageView]
+AnimationMethod=DocumentView::GLAnimation
+MouseWheelBehavior=MouseWheelBehavior::Zoom
+
+[SideBar]
+IsVisible ViewMode=true
+
+[ThumbnailView]
+ListVideos=false

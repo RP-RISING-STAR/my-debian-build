@@ -10,6 +10,7 @@ fonts-crosextra-caladea
 fonts-crosextra-carlito
 gimp
 gsmartcontrol
+gwenview
 htop
 intel-microcode
 kate
@@ -22,6 +23,7 @@ kompare
 konsole
 mc
 okular
+onedrive
 p7zip-full
 plasma-workspace
 plymouth
@@ -37,4 +39,3 @@ vlc
 xdg-desktop-portal-kde
 xdg-desktop-portal-wlr
 yakuake
-

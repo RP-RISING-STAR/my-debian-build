@@ -18,6 +18,7 @@ Customized Debian live build configuration for my needs
 * FreeOffice
 * Gimp
 * GSmartControl
+* Gwenview
 * htop
 * Kate
 * KCalc
@@ -29,6 +30,7 @@ Customized Debian live build configuration for my needs
 * Microsoft Teams
 * Midnight Commander
 * Okular
+* OneDrive
 * Plasma-workspace
 * Plymouth
 * SDDM
