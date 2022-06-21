@@ -22,6 +22,7 @@ Customized Debian live build configuration for my needs
 * Kate
 * KCalc
 * KFind
+* Kid3
 * KolourPaint
 * Kompare
 * Konsole
