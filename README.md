@@ -27,6 +27,7 @@ Customized Debian live build configuration for my needs
 * KolourPaint
 * Kompare
 * Konsole
+* KRDC
 * Microsoft Teams
 * Midnight Commander
 * Okular
