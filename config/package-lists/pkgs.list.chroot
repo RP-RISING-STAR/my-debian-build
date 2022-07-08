@@ -1,6 +1,7 @@
 ark
 clementine
 curl
+dnsutils
 dolphin
 dolphin-plugins
 filezilla
@@ -13,6 +14,7 @@ gsmartcontrol
 gwenview
 htop
 intel-microcode
+iputils-ping
 kate
 kcalc
 kde-spectacle
@@ -23,6 +25,7 @@ kolourpaint
 kompare
 konsole
 krdc
+libssl1.1
 mc
 okular
 onedrive
@@ -37,6 +40,7 @@ skypeforlinux
 softmaker-freeoffice-2021
 teams
 telegram-desktop
+traceroute
 ttf-mscorefonts-installer
 unrar
 vlc
