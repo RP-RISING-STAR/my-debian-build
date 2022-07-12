@@ -1,6 +1,6 @@
 #!/bin/sh
 # removing unnecessary packages
 
-apt purge -y termit kdeconnect
+apt purge -y fonts-noto*extra kdeconnect termit
 
 apt autoremove -y --purge

@@ -1,6 +1,6 @@
 [DetailsMode]
 ExpandableFolders=false
-PreviewSize=22
+PreviewSize=32
 
 [VersionControl]
 enabledPlugins=Git
