@@ -1,7 +1,7 @@
 [Layout]
 DisplayNames=,,
 LayoutList=us,ua,ru
-Options=grp:ctrl_shift_toggle
+Options=grp:rctrl_rshift_toggle
 ResetOldOptions=true
 Use=true
 VariantList=,,
