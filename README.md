@@ -19,6 +19,7 @@ Customized Debian live build configuration for my needs
 * Gimp
 * GSmartControl
 * Gwenview
+* HardInfo
 * htop
 * Kate
 * KCalc

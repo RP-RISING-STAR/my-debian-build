@@ -12,6 +12,7 @@ fonts-crosextra-carlito
 gimp
 gsmartcontrol
 gwenview
+hardinfo
 htop
 intel-microcode
 iputils-ping
@@ -30,6 +31,7 @@ mc
 okular
 onedrive
 p7zip-full
+pciutils
 plasma-workspace
 plasma-workspace-wallpapers
 plymouth
