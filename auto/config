@@ -13,5 +13,6 @@ lb config noauto \
 --debian-installer netinst \
 --debootstrap-options "--include=ca-certificates --variant=minbase" \
 --security true \
---updates true
+--updates true \
+--win32-loader false
 "${@}"
