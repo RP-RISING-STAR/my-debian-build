@@ -35,5 +35,8 @@ pref("browser.tabs.drawInTitlebar", true);
 // No bookmarks toolbar
 pref("browser.toolbars.bookmarks.visibility", "never");
 
-// Touch screen density
-pref("browser.uidensity", 2);
+// Skip first run telemetry screen
+pref("toolkit.telemetry.reportingpolicy.firstRun", false);
+
+// Disable home page sponsored shortcuts
+pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
