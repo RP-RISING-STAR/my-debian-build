@@ -37,6 +37,7 @@ pref("browser.toolbars.bookmarks.visibility", "never");
 
 // Skip first run telemetry screen
 pref("toolkit.telemetry.reportingpolicy.firstRun", false);
+pref("datareporting.policy.dataSubmissionPolicyBypassNotification", true);
 
 // Disable home page sponsored shortcuts
 pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
