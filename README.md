@@ -39,5 +39,6 @@ Customized Debian live build configuration for my needs
 * Skype
 * Spectacle
 * Telegram
+* Visual Studio Code
 * VLC
 * Yakuake

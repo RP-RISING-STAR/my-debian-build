@@ -6,7 +6,7 @@ lb config noauto \
 --apt-indices false \
 --apt-source-archives false \
 --architecture amd64 \
---archive-areas "main contrib non-free" \
+--archive-areas "main contrib non-free non-free-firmware" \
 --backports true \
 --clean \
 --distribution bookworm \
