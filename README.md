@@ -37,8 +37,8 @@ Customized Debian live build configuration for my needs
 * Plymouth
 * SDDM
 * Skype
+* SMPlayer
 * Spectacle
 * Telegram
 * Visual Studio Code
-* VLC
 * Yakuake
