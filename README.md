@@ -29,7 +29,6 @@ Customized Debian live build configuration for my needs
 * Kompare
 * Konsole
 * KRDC
-* Microsoft Teams
 * Midnight Commander
 * Okular
 * OneDrive

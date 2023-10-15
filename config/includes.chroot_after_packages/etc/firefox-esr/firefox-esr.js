@@ -45,3 +45,7 @@ pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 // Set new tab default top sites
 pref("browser.topsites.useRemoteSetting", false);
 pref("browser.newtabpage.activity-stream.default.sites", "https://www.youtube.com/,https://gmail.com/,https://www.twitter.com/,https://www.wikipedia.org/,https://www.amazon.com/,https://github.com/");
+
+// Compact UI mode
+pref("browser.compactmode.show", true);
+pref("browser.uidensity", 1);
