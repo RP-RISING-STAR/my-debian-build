@@ -6,7 +6,7 @@ dnsutils
 dolphin
 dolphin-plugins
 filezilla
-firefox-esr
+firefox
 flatpak
 fonts-crosextra-caladea
 fonts-crosextra-carlito
@@ -35,6 +35,7 @@ mp3gain
 nano
 okular
 onedrive
+onlyoffice-desktopeditors
 p7zip-full
 pciutils
 plasma-workspace
@@ -43,9 +44,7 @@ plymouth
 plymouth-themes
 sddm
 sddm-theme-debian-breeze
-skypeforlinux
 smplayer
-softmaker-freeoffice-2021
 telegram-desktop
 traceroute
 ttf-mscorefonts-installer

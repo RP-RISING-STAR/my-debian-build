@@ -9,10 +9,9 @@ lb config noauto \
 --archive-areas "main contrib non-free non-free-firmware" \
 --backports true \
 --clean \
---distribution bookworm \
+--distribution trixie \
 --debian-installer netinst \
 --debootstrap-options "--include=ca-certificates --variant=minbase" \
 --security true \
---updates true \
---win32-loader false
+--updates true
 "${@}"

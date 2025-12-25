@@ -15,7 +15,6 @@ Customized Debian live build configuration for my needs
 * FileZilla
 * Firefox
 * Flatpak
-* FreeOffice
 * Gimp
 * GSmartControl
 * Gwenview
@@ -32,10 +31,10 @@ Customized Debian live build configuration for my needs
 * Midnight Commander
 * Okular
 * OneDrive
+* OnlyOffice
 * Plasma-workspace
 * Plymouth
 * SDDM
-* Skype
 * SMPlayer
 * Spectacle
 * Telegram
