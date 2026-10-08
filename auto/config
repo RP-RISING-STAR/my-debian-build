@@ -9,7 +9,7 @@ lb config noauto \
 --archive-areas "main contrib non-free non-free-firmware" \
 --backports true \
 --clean \
---distribution trixie \
+--distribution testing \
 --debian-installer netinst \
 --debootstrap-options "--include=ca-certificates --variant=minbase" \
 --security true \

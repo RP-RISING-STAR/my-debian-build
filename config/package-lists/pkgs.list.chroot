@@ -1,12 +1,15 @@
 aha
 ark
-clementine
+cantata
+codium
 curl
 dnsutils
 dolphin
 dolphin-plugins
+filelight
 filezilla
 firefox
+flameshot
 flatpak
 fonts-crosextra-caladea
 fonts-crosextra-carlito
@@ -19,7 +22,6 @@ intel-microcode
 iputils-ping
 kate
 kcalc
-kde-spectacle
 kdialog
 kfind
 kid3
@@ -28,6 +30,7 @@ kolourpaint
 kompare
 konsole
 krdc
+krita
 libssl3
 mc
 mesa-utils
@@ -44,11 +47,11 @@ plymouth
 plymouth-themes
 sddm
 sddm-theme-debian-breeze
-smplayer
 telegram-desktop
 traceroute
 ttf-mscorefonts-installer
 unrar
+vlc
 vulkan-tools
 webext-ublock-origin-firefox
 xdg-desktop-portal-kde

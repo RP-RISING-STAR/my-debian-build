@@ -9,11 +9,12 @@ Customized Debian live build configuration for my needs
 
 **Apps included:**
 * Ark (+ 7-Zip/RAR)
-* Clementine
+* Cantata
 * Curl
 * Dolphin (+ plugins)
 * FileZilla
 * Firefox
+* Flameshot
 * Flatpak
 * Gimp
 * GSmartControl
@@ -28,6 +29,7 @@ Customized Debian live build configuration for my needs
 * Kompare
 * Konsole
 * KRDC
+* Krita
 * Midnight Commander
 * Okular
 * OneDrive
@@ -35,8 +37,8 @@ Customized Debian live build configuration for my needs
 * Plasma-workspace
 * Plymouth
 * SDDM
-* SMPlayer
 * Spectacle
 * Telegram
-* Visual Studio Code
+* VLC
+* VS Codium
 * Yakuake
