@@ -4,3 +4,6 @@ PreviewSize=32
 
 [VersionControl]
 enabledPlugins=Git
+
+[MainWindow]
+MenuBar=Enabled

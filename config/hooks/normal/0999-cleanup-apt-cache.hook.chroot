@@ -1,7 +1,6 @@
 #!/bin/sh
-# Description: Cleanup apt cache files that add ~100MB to the .iso and aren't needed
+# Description: Cleanup cache/temp files that add >100MB to the .iso and aren't needed
 
-rm -f /var/lib/apt/lists/*_Packages
-rm -f /var/lib/apt/lists/*_Sources
-rm -f /var/lib/apt/lists/*_Translation-*
-
+apt-get clean
+rm -rf /var/lib/apt/lists/*
+rm -rf /var/log/*

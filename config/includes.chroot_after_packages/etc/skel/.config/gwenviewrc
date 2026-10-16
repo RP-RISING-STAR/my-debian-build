@@ -12,3 +12,6 @@ IsVisible ViewMode=true
 
 [ThumbnailView]
 ListVideos=false
+
+[MainWindow]
+MenuBar=Enabled
