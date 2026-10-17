@@ -1,5 +1,7 @@
 aha
 ark
+bluez
+bluedevil
 cantata
 codium
 curl
@@ -9,6 +11,7 @@ dolphin-plugins
 filelight
 filezilla
 firefox
+firmware-iwlwifi
 flameshot
 flatpak
 fonts-crosextra-caladea
@@ -44,6 +47,7 @@ pciutils
 plasma-desktop
 plymouth
 plymouth-themes
+rfkill
 sddm
 telegram-desktop
 traceroute

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Set audio volume
+Comment=Set initial PulseAudio volume levels
+Exec=/usr/local/bin/set-audio-volume
+Terminal=false
+X-GNOME-Autostart-enabled=true
