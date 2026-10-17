@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# removing unused locales to reduce target iso size
+find /usr/share/locale -mindepth 1 -maxdepth 1 -type d \
+  ! -name 'en' \
+  ! -name 'en_*' \
+  ! -name 'ru' \
+  ! -name 'ru_*' \
+  ! -name 'uk' \
+  ! -name 'uk_*' \
+  -exec rm -rf {} +
